@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AB6AplxZUmCnBaSjnUpZtA2RfAeDrvJ/qcYN5TcdZELfZJUN7FX02fHwCdUXi8muc97mFk/5p/xY9mNLcTynmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\Project2\\TodoApp.Common\\TodoApp.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
