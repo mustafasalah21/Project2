@@ -1,0 +1,15 @@
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\bin\Debug\net5.0\TodoApp.ModelView.deps.json
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\bin\Debug\net5.0\TodoApp.ModelView.dll
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\bin\Debug\net5.0\TodoApp.ModelView.pdb
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\bin\Debug\net5.0\TodoApp.Common.dll
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\bin\Debug\net5.0\TodoApp.Common.pdb
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\TodoApp.ModelView.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\TodoApp.ModelView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\TodoApp.ModelView.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\TodoApp.ModelView.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\TodoApp.ModelView.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\TodoApp.ModelView.csproj.CopyComplete
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\TodoApp.ModelView.dll
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\refint\TodoApp.ModelView.dll
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\TodoApp.ModelView.pdb
+C:\Users\pc\Source\Repos\TodoApp\TodoApp.ModelViews\obj\Debug\net5.0\ref\TodoApp.ModelView.dll
